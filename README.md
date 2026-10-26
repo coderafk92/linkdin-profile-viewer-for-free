@@ -271,6 +271,6 @@ Have an idea to improve the project? Contributions and suggestions are welcome!
 
 **✨ Thanks for visiting! Keep coding, keep growing! ✨**
 
-<sub>Made with 💜 and ☕ by YOUR_NAME</sub>
+<sub>Made with 💜 and ☕ by coderafk92</sub>
 
 </div>
